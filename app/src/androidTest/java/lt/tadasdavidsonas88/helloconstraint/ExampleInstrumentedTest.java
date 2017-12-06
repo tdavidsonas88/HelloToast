@@ -1,4 +1,4 @@
-package lt.tadasdavidsonas88.hellotoast;
+package lt.tadasdavidsonas88.helloconstraint;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
